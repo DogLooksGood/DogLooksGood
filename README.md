@@ -4,7 +4,7 @@ Greetings, my friend!
 
 
 ### Emacs Lisp:
-- [parinfer-mode](https://github.com/DogLooksGood/parinfer-mode): Parinfer
+- [parinfer-mode](https://github.com/DogLooksGood/parinfer-mode): Parinfer, no longer maintained.
 - [meow](https://github.com/DogLooksGood/meow): My favorite modal editing
 - [emacs-rime](https://github.com/DogLooksGood/emacs-rime): A Rime frontend
 - [inf-iex](https://github.com/DogLooksGood/inf-iex): A better Elixir IEx interaction
