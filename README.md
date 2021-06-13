@@ -10,6 +10,7 @@ Greetings, my friend!
 - [inf-iex](https://github.com/DogLooksGood/inf-iex): A better Elixir IEx interaction
 - [org-html-themify](https://github.com/DogLooksGood/org-html-themify): Lightweight HTML style for Org export
 - [casease](https://github.com/DogLooksGood/casease): Reduce shift key usage
+- [zprint](https://github.com/DogLooksGood/zprint.el): Zprint in Emacs
 
 ### Clojure:
 It's a shame to not have much Clojure project, I love Clojure so much!
