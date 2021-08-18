@@ -13,8 +13,7 @@ Greetings, my friend!
 - [zprint](https://github.com/DogLooksGood/zprint.el): Zprint in Emacs
 
 ### Clojure:
-It's a shame to not have much Clojure project, I love Clojure so much!
-- [mcss](https://github.com/DogLooksGood/mcss): Macro your CSS (currently focusing)
+- [holdem](https://github.com/DogLooksGood/holdem): A lightweight Hold'em Poker game
 
 ### Themes:
 Themes are Emacs only and I have plan to port them to my secondary editor.
