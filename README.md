@@ -24,8 +24,6 @@ Themes are Emacs only and I have plan to port them to my secondary editor.
 
 ### Where you can find me:
 
-Twitter: @DogLooksGood
-
-Telegram: @doglooksgood
+Telegram: @shitianshu
 
 WeChat: Shi-Tianshu
