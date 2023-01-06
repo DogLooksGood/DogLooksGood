@@ -1,13 +1,10 @@
 Greetings, my friend!
 
-
-
-
 ### Emacs Lisp:
 - [parinfer-mode](https://github.com/DogLooksGood/parinfer-mode): Parinfer, no longer maintained.
 - [meow](https://github.com/DogLooksGood/meow): My favorite modal editing
 - [emacs-rime](https://github.com/DogLooksGood/emacs-rime): A Rime frontend
-- [inf-iex](https://github.com/DogLooksGood/inf-iex): A better Elixir IEx interaction
+- [inf-iex](https://github.com/DogLooksGood/inf-iex): A better Elixir IEx interaction, no longer maintained
 - [org-html-themify](https://github.com/DogLooksGood/org-html-themify): Lightweight HTML style for Org export
 - [casease](https://github.com/DogLooksGood/casease): Reduce shift key usage
 - [zprint](https://github.com/DogLooksGood/zprint.el): Zprint in Emacs
