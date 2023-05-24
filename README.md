@@ -11,6 +11,7 @@ Greetings, my friend!
 
 ### Clojure:
 - [holdem](https://github.com/DogLooksGood/holdem): A lightweight Hold'em Poker game
+- [borsh-clj](https://github.com/DogLooksGood/borsh-clj): A pure Clojure/Script implementation for Borsh
 
 ### Themes:
 Themes are Emacs only and I have plan to port them to my secondary editor.
